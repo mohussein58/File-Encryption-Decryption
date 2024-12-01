@@ -28,7 +28,7 @@ Contributions are welcome! Here are the steps to contribute to the project:
 
 ## Credits
 
-This project is created by Kalutu Daniel.
+This project is created by me with ❤️.
 
 
 
